@@ -1,7 +1,7 @@
 # DataTables-balkan-string-sort-Plug-In
 Plug-in for string sorting with Slovenian/Croatian/Serbian language
 
-Characters support: <strong>šđžčć</strong>
+Character support: <strong>čćđšžČĆĐŠŽ</strong>
 
 ## Example
 Load script:
